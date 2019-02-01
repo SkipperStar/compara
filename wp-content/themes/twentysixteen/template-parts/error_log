@@ -1,0 +1,5 @@
+[27-Oct-2018 22:37:00 Europe/London] PHP Fatal error:  Call to undefined function _e() in /home/savingsde/public_html/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[27-Oct-2018 23:42:16 Europe/London] PHP Fatal error:  Call to undefined function _e() in /home/savingsde/public_html/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 21:06:35 Europe/London] PHP Fatal error:  Call to undefined function apply_filters() in /home/savingsde/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[28-Oct-2018 22:08:16 Europe/London] PHP Fatal error:  Call to undefined function apply_filters() in /home/savingsde/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[30-Oct-2018 14:28:01 Europe/London] PHP Fatal error:  Call to undefined function the_id() in /home/savingsde/public_html/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11

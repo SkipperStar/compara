@@ -1,0 +1,204 @@
+/*
+
+Theme Name: Virtue Child
+
+Theme URI: https://kadencethemes.com/product/virtue-free-theme/
+
+Template: Virtue
+
+*/
+
+/* DEPOSITS */
+select {
+    outline: none;
+    cursor: pointer;
+}
+.deposits {
+    padding: 0;
+    font-family: 'Lato';
+}
+.deposits__header-box {
+    padding: 60px 50px;
+    min-height: 420px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%; /* auto 100% || cover */
+}
+.deposits__header-title {
+    color: #424245;
+    font-size: 38px;
+    font-weight: 700;
+}
+.deposits__header-descr {
+    width: 35%; /* Если что - сделать заголовок, описание и range отдельным блоком и текст будет переносится сам */
+    color: #333 !important;
+    font-size: 14px;
+}
+.deposits__search {
+    padding: 30px 60px;
+    width: 400px;
+    max-width: 50%;
+    background-color: rgba(255,255,255,.8);
+    border-radius: 4px;
+}
+.deposits__search-top {
+    display: flex;
+}
+.deposits__search-currencies {
+    color: #333;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #f9f9f9;
+    border: 1px solid #e8e8e8;
+    border-radius: 0px 4px 4px 0px;
+}
+.deposits__search-slider {
+    margin: 20px 0;
+}
+.slider-amount {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.slider-amount span {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+    font-size: 10px;
+    font-weight: 400;
+}
+.deposits__search-input {
+    width: 150%;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #333;
+}
+.ui-slider-range-min { /* .ui-slider-range also works */
+    background-color: #00abcc;
+}
+.ui-slider-handle {
+    cursor: pointer !important;
+}
+.ui-slider-handle:focus {
+    outline: none;
+}
+.deposits__search-submit {
+    margin: auto;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+
+    background-color: #0ac;
+    border: none;
+    border-radius: 4px;
+
+    color: #fff;
+    font-family: 'Lato';
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 42px;
+}
+
+/* DEPOSITS FILTERS */
+.deposits__filters {
+    margin-bottom: 30px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fcfcfc;
+    border: 1px solid #e8e8e8;
+}
+.filters__list {
+    display: flex;
+    align-self: stretch;
+}
+.filters__item {
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #e8e8e8;
+    color: #555;
+    font-weight: 700;
+    font-size: 14px;
+}
+.filters__item--img {
+    width: 60px;
+}
+.filters__item--img img {
+    width: 17px;
+    height: 17px;
+}
+.filters__item select {
+    border: none;
+    width: 90%;
+    background-color: #fcfcfc;
+}
+.filters__item select option {
+    border: none;
+    outline: none;
+}
+.filters__count {
+    margin-right: 3%;
+    color: #555;
+    font-size: 14px;
+    font-weight: 700;
+}
+.filters__count .banks-count {
+    color: #0ac;
+}
+
+ /* DEPOSITS BANKS */
+.banks__list {
+    list-style: none;
+    padding: 0;
+}
+.bank__item--header {
+    background-color: #ecf6f8 !important;
+}
+.bank__item {
+    /* padding: 20px 10px; */
+    /* height: 60px; */
+    padding: 0 10px;
+    min-height: 60px; /* For adaptive height */
+    max-height: 150px; /* For adaptive height */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+    border: 1px solid #e8e8e8;
+    background-color: #fafeff;
+    overflow: hidden;
+}
+.bank__item + .bank__item {
+    margin-top: 7px;
+}
+.bank__item > * {
+    width: 16%;
+    overflow: hidden;
+}
+.bank__item-text {
+    color: #555;
+    font-weight: 400;
+    font-size: 14px;
+}
+.bank__item--header .bank__item-text {
+    font-weight: 700;
+}
+.bank__logo-link {
+    height: 58px;
+    display: flex;
+    align-items: center;
+}
+.bank__logo-name {
+    font-size: 18px;
+}
+.bank__logo-img {
+    max-height: 58px;
+}
+.bank__details .bank__item-text {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

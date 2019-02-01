@@ -1,0 +1,310 @@
+[09-Oct-2017 21:59:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[09-Oct-2017 22:00:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[28-Feb-2018 11:35:54 UTC] PHP Fatal error:  Call to undefined function get_template_part() in /home/savingsd/public_html/wp-content/themes/virtue/index.php on line 3
+[08-May-2018 12:42:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[08-May-2018 12:42:07 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/savingsd/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[08-May-2018 12:42:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[08-May-2018 12:42:39 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/savingsd/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[08-May-2018 12:43:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[19-May-2018 10:15:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[19-May-2018 10:15:24 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/savingsd/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[19-May-2018 10:16:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[19-May-2018 10:16:27 UTC] PHP Fatal error:  Call to a member function close() on boolean in /home/savingsd/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[19-May-2018 10:17:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/savingsd/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[27-May-2018 19:12:11 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[27-May-2018 19:12:11 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[27-May-2018 19:12:11 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[27-May-2018 19:12:11 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[27-May-2018 19:17:51 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[27-May-2018 19:17:51 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[27-May-2018 19:17:51 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[27-May-2018 19:17:51 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[27-May-2018 19:20:20 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[27-May-2018 19:20:20 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[27-May-2018 19:20:20 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[27-May-2018 19:27:35 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[27-May-2018 19:27:35 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[27-May-2018 19:27:35 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 08:09:50 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[28-May-2018 08:09:50 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 08:09:50 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 08:09:50 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[28-May-2018 08:10:35 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[28-May-2018 08:10:35 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 08:10:35 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 08:10:35 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[28-May-2018 08:11:04 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[28-May-2018 08:11:04 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 08:11:04 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 08:11:06 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[28-May-2018 08:11:06 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 08:11:06 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 08:29:04 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[28-May-2018 08:29:04 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[28-May-2018 08:29:04 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 08:29:04 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 08:29:04 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[28-May-2018 09:08:31 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:08:56 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:08:57 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:08:57 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:08:58 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:08:58 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:10:03 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 09:10:23 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[28-May-2018 09:10:23 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:10:23 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:10:23 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[28-May-2018 09:11:57 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[28-May-2018 09:11:57 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:11:57 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:11:57 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[28-May-2018 09:21:27 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:38:25 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:39:32 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:39:51 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:39:53 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:40:11 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:40:14 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-May-2018 09:40:33 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_root'@'localhost' (using password: YES) in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[28-May-2018 09:40:33 Europe/London] PHP Notice:  Undefined variable: result in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 09:40:33 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 09:40:33 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[28-May-2018 09:42:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 09:42:32 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 09:43:08 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 09:44:51 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[28-May-2018 09:44:51 Europe/London] PHP Notice:  Undefined index: cantidad in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[28-May-2018 09:44:51 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[28-May-2018 09:44:51 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-May-2018 11:00:38 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[28-May-2018 11:00:38 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[28-May-2018 11:00:38 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[28-May-2018 11:00:38 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-May-2018 16:03:46 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[28-May-2018 16:03:46 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[05-Jun-2018 11:25:09 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[05-Jun-2018 11:25:15 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[05-Jun-2018 11:25:27 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[08-Jul-2018 15:57:47 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[08-Jul-2018 15:57:47 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[08-Jul-2018 15:57:51 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[08-Jul-2018 15:57:51 Europe/London] PHP Notice:  Undefined index: cantidad in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[08-Jul-2018 15:57:51 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[08-Jul-2018 15:57:51 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[09-Jul-2018 11:23:15 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[09-Jul-2018 11:23:15 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[09-Jul-2018 11:23:15 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[09-Jul-2018 11:23:15 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[15-Jul-2018 13:54:45 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[15-Jul-2018 13:54:45 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[15-Jul-2018 21:47:31 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[15-Jul-2018 21:47:31 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[15-Jul-2018 21:47:31 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[15-Jul-2018 21:47:31 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[12-Aug-2018 05:03:09 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[12-Aug-2018 05:03:09 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[12-Aug-2018 10:19:19 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[12-Aug-2018 10:19:19 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[12-Aug-2018 10:19:19 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[12-Aug-2018 10:19:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[16-Aug-2018 03:20:02 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:20:06 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:20:06 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[16-Aug-2018 03:20:06 Europe/London] PHP Notice:  Undefined index: cantidad in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[16-Aug-2018 03:20:06 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[16-Aug-2018 03:20:06 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:20:11 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:20:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:21:14 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:21:15 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:28:28 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:28:33 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:28:36 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:28:40 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:28:47 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:37:10 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 03:37:16 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 04:13:06 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 04:13:11 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 04:14:40 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 04:14:46 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 04:24:16 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 04:24:23 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 06:34:25 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 06:34:34 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 08:42:44 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 08:43:02 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 09:23:25 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[16-Aug-2018 09:23:28 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:47:28 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:47:29 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:07 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:24 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:24 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:24 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:24 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:25 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:27 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:27 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:27 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:28 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:29 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:29 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:29 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:48:29 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:54:46 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:56:33 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:56:42 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:56:47 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:59:42 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[17-Aug-2018 07:59:58 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[20-Aug-2018 05:47:54 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[20-Aug-2018 11:03:58 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[20-Aug-2018 11:04:00 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:00:09 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:00:15 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:02:28 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:03:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:03:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:03:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:03:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:04:51 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:15:54 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:15:55 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:15:55 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:15:55 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:15:55 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:15:56 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:24:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:24:20 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:24:20 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:26:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:26:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:29:38 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:30:25 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:30:26 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Aug-2018 12:30:26 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[24-Aug-2018 03:15:30 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[24-Aug-2018 03:15:30 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[24-Aug-2018 03:15:30 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[24-Aug-2018 03:15:30 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[27-Aug-2018 13:36:07 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[27-Aug-2018 13:36:27 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[27-Aug-2018 14:15:32 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[01-Sep-2018 16:13:08 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[01-Sep-2018 16:13:08 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[08-Sep-2018 12:08:02 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[08-Sep-2018 12:08:02 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[08-Sep-2018 12:09:06 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[08-Sep-2018 12:09:06 Europe/London] PHP Notice:  Undefined index: cantidad in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[08-Sep-2018 12:09:06 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[08-Sep-2018 12:09:06 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[08-Sep-2018 12:10:19 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[08-Sep-2018 12:10:19 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[08-Sep-2018 12:10:19 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[08-Sep-2018 12:10:19 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[13-Sep-2018 04:47:21 Europe/London] PHP Fatal error:  Call to undefined function get_template_part() in /home/comparae/public_html/wp-content/themes/virtue/archive.php on line 5
+[22-Sep-2018 23:27:01 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[22-Sep-2018 23:27:01 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[22-Sep-2018 23:29:22 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[22-Sep-2018 23:29:22 Europe/London] PHP Notice:  Undefined index: cantidad in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[22-Sep-2018 23:29:22 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[22-Sep-2018 23:29:22 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[22-Sep-2018 23:30:50 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[22-Sep-2018 23:30:50 Europe/London] PHP Notice:  Undefined index: plazo in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[22-Sep-2018 23:30:50 Europe/London] PHP Notice:  Undefined index: moneda in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[22-Sep-2018 23:30:50 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[29-Sep-2018 13:35:17 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[29-Sep-2018 13:35:23 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[29-Sep-2018 13:35:45 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[29-Sep-2018 13:36:04 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[08-Oct-2018 12:31:56 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[08-Oct-2018 12:32:34 Europe/London] PHP Notice:  Trying to get property of non-object in /home/comparae/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[12-Oct-2018 10:51:57 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[12-Oct-2018 10:51:57 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[12-Oct-2018 10:51:57 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[12-Oct-2018 10:51:57 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[12-Oct-2018 10:51:57 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[12-Oct-2018 12:07:05 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[12-Oct-2018 12:07:05 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[12-Oct-2018 12:07:05 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[12-Oct-2018 12:07:05 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[12-Oct-2018 12:07:05 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[12-Oct-2018 12:07:05 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[12-Oct-2018 12:07:05 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[12-Oct-2018 13:21:59 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[12-Oct-2018 13:21:59 Europe/London] PHP Notice:  Undefined index: cantidad in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[12-Oct-2018 13:21:59 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[12-Oct-2018 13:21:59 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[12-Oct-2018 13:21:59 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[12-Oct-2018 13:21:59 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[13-Oct-2018 19:00:53 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[13-Oct-2018 19:00:53 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[13-Oct-2018 19:00:53 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[13-Oct-2018 19:00:53 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[13-Oct-2018 19:00:53 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[13-Oct-2018 19:01:05 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[13-Oct-2018 19:01:05 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[13-Oct-2018 19:01:05 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[13-Oct-2018 19:01:05 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[13-Oct-2018 19:01:05 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[13-Oct-2018 19:01:05 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[13-Oct-2018 19:01:05 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[13-Oct-2018 19:01:17 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[13-Oct-2018 19:01:17 Europe/London] PHP Notice:  Undefined index: cantidad in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[13-Oct-2018 19:01:17 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[13-Oct-2018 19:01:17 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[13-Oct-2018 19:01:17 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[13-Oct-2018 19:01:17 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Nov-2018 09:55:42 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[21-Nov-2018 09:55:42 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[21-Nov-2018 09:55:42 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[21-Nov-2018 09:55:42 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[21-Nov-2018 09:55:42 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[21-Nov-2018 09:56:39 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[21-Nov-2018 09:56:39 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[21-Nov-2018 09:56:39 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[21-Nov-2018 09:56:39 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[21-Nov-2018 09:56:39 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[21-Nov-2018 09:56:39 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[21-Nov-2018 09:56:39 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[21-Nov-2018 10:11:35 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[21-Nov-2018 10:11:35 Europe/London] PHP Notice:  Undefined index: cantidad in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[21-Nov-2018 10:11:35 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[21-Nov-2018 10:11:35 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[21-Nov-2018 10:11:35 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[21-Nov-2018 10:11:35 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[28-Nov-2018 15:19:44 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[28-Nov-2018 15:19:44 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[28-Nov-2018 15:19:44 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[28-Nov-2018 15:19:44 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[28-Nov-2018 15:19:44 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-Nov-2018 15:19:44 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[28-Nov-2018 15:19:44 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[28-Nov-2018 15:23:18 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[28-Nov-2018 15:23:18 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[28-Nov-2018 15:23:18 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-Nov-2018 15:23:18 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[28-Nov-2018 15:23:18 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[02-Dec-2018 14:36:46 Europe/London] PHP Notice:  Undefined index: cantidadTarjetas in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 3
+[02-Dec-2018 14:36:46 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 12
+[02-Dec-2018 14:36:46 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[02-Dec-2018 14:36:46 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 49
+[02-Dec-2018 14:36:46 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_tarjetas.php on line 58
+[02-Dec-2018 20:59:50 Europe/London] PHP Notice:  Undefined index: cantidadPrestamos in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 3
+[02-Dec-2018 20:59:50 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 5
+[02-Dec-2018 20:59:50 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 8
+[02-Dec-2018 20:59:50 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 23
+[02-Dec-2018 20:59:50 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[02-Dec-2018 20:59:50 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 64
+[02-Dec-2018 20:59:50 Europe/London] PHP Fatal error:  Call to a member function close() on a non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_prestamos.php on line 73
+[02-Dec-2018 22:18:45 Europe/London] PHP Notice:  Undefined index: moneda in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 3
+[02-Dec-2018 22:18:45 Europe/London] PHP Notice:  Undefined index: cantidad in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 4
+[02-Dec-2018 22:18:45 Europe/London] PHP Notice:  Undefined index: plazo in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 5
+[02-Dec-2018 22:18:45 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[02-Dec-2018 22:18:45 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[02-Dec-2018 22:18:45 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[05-Dec-2018 12:40:45 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'comparae_user'@'localhost' (using password: YES) in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 14
+[05-Dec-2018 12:40:45 Europe/London] PHP Notice:  Undefined variable: result in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434
+[05-Dec-2018 12:40:45 Europe/London] PHP Notice:  Trying to get property of non-object in /home/savingsde/public_html/wp-content/themes/virtue/tabla_depositos.php on line 434

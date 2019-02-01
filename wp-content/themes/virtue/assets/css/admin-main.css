@@ -1,0 +1,30 @@
+.slider.slider-horizontal {
+    width: 100%;
+}
+
+.form-group select.currencyPicker {
+    padding: 2px;
+    width: 100%;
+}
+
+.form-group select.currencyPicker option {
+    padding: 3px;
+}
+
+.slider {
+    margin: 20px 0;
+}
+
+.slider:hover .tooltip {
+    opacity: 1;
+}
+
+button[data-type="plus"] {
+    font-size: 20px;
+    padding: 0.115rem 0.475rem;
+    font-weight: 700;
+}
+
+.inside .errBlock {
+    display: none;
+}

@@ -1,0 +1,8 @@
+[02-Nov-2017 04:06:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[02-Nov-2017 04:28:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[05-Nov-2017 16:51:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[16-Nov-2017 14:48:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 16:24:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[29-Jan-2018 01:24:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[06-Feb-2018 12:05:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60
+[11-Feb-2018 10:54:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/savingsd/public_html/wp-content/plugins/hello.php on line 60

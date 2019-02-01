@@ -1,0 +1,4 @@
+[17-Oct-2018 11:28:45 Europe/London] PHP Fatal error:  Call to undefined function post_password_required() in /home/savingsde/public_html/wp-content/themes/twentyfifteen/comments.php on line 18
+[18-Oct-2018 06:44:47 Europe/London] PHP Fatal error:  Call to undefined function _e() in /home/savingsde/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[18-Oct-2018 06:55:15 Europe/London] PHP Fatal error:  Call to undefined function _e() in /home/savingsde/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[18-Oct-2018 09:12:12 Europe/London] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/savingsde/public_html/wp-content/themes/twentyfifteen/sidebar.php on line 10

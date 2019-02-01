@@ -1,0 +1,18 @@
+[20-Oct-2018 12:22:39 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 12:26:51 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[20-Oct-2018 18:30:05 Europe/London] PHP Notice:  Undefined index: wp_version in /home/savingsde/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[20-Oct-2018 18:30:05 Europe/London] PHP Fatal error:  Call to undefined function get_template_directory() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 18:31:14 Europe/London] PHP Notice:  Undefined index: wp_version in /home/savingsde/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[20-Oct-2018 18:31:14 Europe/London] PHP Fatal error:  Call to undefined function get_template_directory() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[20-Oct-2018 20:11:55 Europe/London] PHP Fatal error:  Call to undefined function get_template_part() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 20:15:18 Europe/London] PHP Fatal error:  Call to undefined function get_template_part() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[20-Oct-2018 21:52:47 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 21:55:24 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/archive.php on line 13
+[20-Oct-2018 23:33:36 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[20-Oct-2018 23:38:55 Europe/London] PHP Fatal error:  Call to undefined function esc_attr() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/searchform.php on line 13
+[21-Oct-2018 01:18:22 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 01:22:56 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[21-Oct-2018 03:03:49 Europe/London] PHP Fatal error:  Call to undefined function language_attributes() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[21-Oct-2018 18:52:29 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Oct-2018 17:38:10 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[29-Oct-2018 18:56:09 Europe/London] PHP Fatal error:  Call to undefined function get_header() in /home/savingsde/public_html/wp-content/themes/twentyseventeen/page.php on line 18
